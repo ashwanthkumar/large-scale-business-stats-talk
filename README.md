@@ -21,6 +21,14 @@ Abel as an idea was conceptualised by [Vinoth Kumar](https://github.com/vinothkr
 - Original proposal from Vinoth on Abel - https://speakerdeck.com/vinothkr/evolution-of-stats-at-indix
 - HyperLogLog Overview by Andrew Sy - https://docs.google.com/presentation/d/1vSsQIsXfwuntcja6zDySTTeq9fPahp4GZRlnrritTPQ/edit#slide=id.p
 
+## Links
+- https://github.com/ashwanthkumar/suuchi
+- https://github.com/twitter/algebird
+- http://riemann.io/
+- http://kafka.apache.org/
+- http://hadoop.apache.org/
+- https://github.com/facebook/rocksdb
+
 ## Image Credits
 - [Twitter by aguycalledgary](https://thenounproject.com/search/?q=twitter+bird&i=23267) from the Noun Project
 - [team by Wilson Joseph](https://thenounproject.com/term/team/717083/) from the Noun Project
