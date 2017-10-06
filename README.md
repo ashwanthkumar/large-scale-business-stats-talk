@@ -1,6 +1,5 @@
 # Using Monoids for Large Scale Business Stats 
 
-## Summary
 At Indix we collect and process lots of data. Most of our processing initially were done as MapReduce (henceforth MR) jobs but as our data grew in size we moved towards stream processing. We monitor the behaviour of our systems through collection of business metrics. It was relatively easy to write Stats jobs on our MR output but things got tricky when we moved to Stream based processing.
 
 Our key learnings over the years have been
@@ -10,7 +9,7 @@ Our key learnings over the years have been
 - Existing open source systems were more for system monitoring than business metrics
 - Model aggregates as Commutative Monoids using [Algebird](https://twitter.github.io/algebird/typeclasses/monoid.html)'s typeclasses.
 
-We put all our learnings and built a system called Abel which solved this for us. It aggregates a million events in ~15 minutes on a single box.
+We put all our learnings and built a system called Abel which solved this for us. It aggregates a million events in ~15 seconds on a single box.
 
 ## About Author
 Ashwanth Kumar is a Principal Engineer at Indix. His major interest lies in building and operating large data systems. When not dealing with data, he spends his time reading research papers in similar topics.
