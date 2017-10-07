@@ -17,8 +17,8 @@ Ashwanth Kumar is a Principal Engineer at Indix. His major interest lies in buil
 Abel as an idea was conceptualised by [Vinoth Kumar](https://github.com/vinothkr) while working at Indix as part of the Ingestion team.
 
 ## References
-- Original proposal from Vinoth on Abel - https://speakerdeck.com/vinothkr/evolution-of-stats-at-indix
-- HyperLogLog Overview by Andrew Sy - https://docs.google.com/presentation/d/1vSsQIsXfwuntcja6zDySTTeq9fPahp4GZRlnrritTPQ/edit#slide=id.p
+- [Evolution of stats @ Indix](https://speakerdeck.com/vinothkr/evolution-of-stats-at-indix) from Vinothkumar Raman
+- [HyperLogLog Overview](https://docs.google.com/presentation/d/1vSsQIsXfwuntcja6zDySTTeq9fPahp4GZRlnrritTPQ/edit#slide=id.p) by Andrew Sy
 - Video by [@brewkode](https://twitter.com/brewkode) on [Suuchi - Toolkit to build distributed systems](https://www.youtube.com/watch?v=GK0-ICFvIGw) at Fifth Elephant, 2017.
 - [Zach Tellman - Everything Will Flow](https://www.youtube.com/watch?v=1bNOO3xxMc0)
 - [Of Algebirds, Monoids, Monads, and Other Bestiary for Large-Scale Data Analytics](http://www.michael-noll.com/blog/2013/12/02/twitter-algebird-monoid-monad-for-large-scala-data-analytics/) by Michael G. Noll
